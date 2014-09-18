@@ -2,6 +2,7 @@
 
 > This is a fine, fine readme.
 
-* So read me already!
+* So read this if you dare already!
 
+* This line is very new.
 
